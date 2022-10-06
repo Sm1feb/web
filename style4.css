@@ -1,0 +1,16 @@
+body{
+    background: url(ab.png);
+    background-size: cover;
+}
+.container{
+    margin: auto;
+    margin-left: 450px;
+    margin-top: 80px;
+}
+.para{
+    margin-left: -100px;
+}
+.image{
+    width: 200px;
+    height: 200px;
+}
